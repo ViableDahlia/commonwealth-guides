@@ -12,7 +12,7 @@
 
 ### Modding & System Setup
 * **[How to Set Up a Second Copy of Fallout 4](./how-to-setup-second-copy-fallout-4.md)**  
-  A step-by-step walkthrough for running an isolated, second instance of Fallout 4 alongside your Steam installation — ideal for Wabbajack lists and testing.
+  A step-by-step walkthrough for running an isolated, second instance of Fallout 4 alongside your Steam installation - ideal for Wabbajack lists and testing.
 
 ### Project & Community Guidelines
 * **[GitHub Etiquette Guide](./github-etiquette.md)**  
